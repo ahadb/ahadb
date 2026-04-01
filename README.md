@@ -1,10 +1,12 @@
-I build systems that actually run — combining LLMs with real backend execution.
+I build systems that actually run — safely combining LLMs with real backend execution.
+
+Ship code for real users.
 
 AI-assisted code. Human judgment where it matters.
 
 [Formerly UI](https://ahadb.github.io/), I still care how things look.
 
-I also have a [website](https://www.ahadbokhari.com/). It’s fine.
+There's also a [website](https://www.ahadbokhari.com/).
 
 ## Projects
 
