@@ -1,6 +1,6 @@
 I build systems that actually run — combining LLMs with real backend execution.
 
-AI-assisted code. Human judgment.
+AI-assisted code. Human judgment where it matters.
 
 [Formerly UI](https://ahadb.github.io/), I still care how things look.
 
@@ -12,7 +12,7 @@ I also have a [website](https://www.ahadbokhari.com/). It’s fine.
 
 - [**AI Governance Platform**](https://github.com/ahadb/ai-governance-platform) — Control plane for LLM policy, routing, and auditability  
 - [**Agent System**](https://github.com/ahadb/agent-system) — Orchestration for controlled think → act → observe workflows  
-- [**Safe Agent System**](https://github.com/ahadb/constrained-agentic-enterprise) — Constrained execution layer for AI-driven actions  
+- [**Constrained Agent System**](https://github.com/ahadb/constrained-agentic-enterprise) — Constrained execution layer for AI-driven actions  
 - [**API Gateway**](https://github.com/ahadb/api-gateway) — Routing layer for AI-enabled backend services  
 
 ### Applications
