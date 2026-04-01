@@ -1,5 +1,3 @@
-ahadb/README.md
-
 I build systems that actually run — combining LLMs with real backend execution.
 
 AI-assisted code. Human judgment.
