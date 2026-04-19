@@ -1,14 +1,18 @@
-I build systems that actually run — safely combining LLMs with real backend execution.
+I build data-intensive frontend systems for financial services — trading UIs, real-time data, complex state, and interfaces that actually work under live conditions.
 
-Ship code for real users.
+AI-assisted development. Human judgment where it matters.
 
-AI-assisted code. Human judgment where it matters.
+Extended into AI integration — RAG pipelines, LLM workflows, and intelligent interfaces built with the same engineering discipline as the rest of the stack.
 
-[Formerly UI](https://ahadb.github.io/), I still care how things look.
-
-There's also a [website](https://www.ahadbokhari.com/).
+[ahadbokhari.com](https://www.ahadbokhari.com/) · [ahadb.github.io](https://ahadb.github.io/)
 
 ## Projects
+
+### Applications
+
+- [**Flow Desk**](https://github.com/ahadb/flow-desk) - Real time order management system with AI insights
+- [**NLP to SQL**](https://github.com/ahadb/nlp-to-sql-ai) — Natural language → SQL with guarded execution  
+- [**Ask My Docs**](https://github.com/ahadb/ask-my-docs-rag-ai) — RAG workflow for querying and summarizing documents  
 
 ### AI Systems
 
@@ -16,12 +20,6 @@ There's also a [website](https://www.ahadbokhari.com/).
 - [**Agent System**](https://github.com/ahadb/agent-system) — Orchestration for controlled think → act → observe workflows  
 - [**Constrained Agent System**](https://github.com/ahadb/constrained-agentic-enterprise) — Constrained execution layer for AI-driven actions  
 - [**API Gateway**](https://github.com/ahadb/api-gateway) — Routing layer for AI-enabled backend services  
-
-### Applications
-
-- [**NLP to SQL**](https://github.com/ahadb/nlp-to-sql-ai) — Natural language → SQL with guarded execution  
-- [**Ask My Docs**](https://github.com/ahadb/ask-my-docs-rag-ai) — RAG workflow for querying and summarizing documents  
-- [**TaskMate AI**](https://github.com/ahadb/taskmate-ai) — AI task manager using natural language  
 
 ### Unnecessary Stuff
 
