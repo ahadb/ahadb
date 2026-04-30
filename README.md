@@ -1,4 +1,4 @@
-I build data-intensive frontend systems for financial services — trading UIs, real-time data, complex state, and interfaces that actually work under live conditions.
+I build data-intensive end-to-end systems for the enterprise and beyond.
 
 AI-assisted development. Human judgment where it matters.
 
